@@ -3,7 +3,7 @@ $(() => {
     let $dropDown = $("#bookDropdown");
     let $container = $("#container");
     let arr = ["novel", "anthology"];
-
+    let x =0;
     $dropDown.append(`<option value=""></option>`);
 
 
