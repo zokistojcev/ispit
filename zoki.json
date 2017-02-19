@@ -1,0 +1,46 @@
+[
+    {
+        "title": "1",
+        "publisher": "1",
+        "yearOfPublication": "1",
+        "lengthInPages": "1",
+        "digitIsbn": "1",
+        "review": "1",
+        "author": "1",
+        "series": "1",
+        "seriesNumber": "1"
+    },
+    {
+        "title": "2",
+        "publisher": "2",
+        "yearOfPublication": "2",
+        "lengthInPages": "2",
+        "digitIsbn": "2",
+        "review": "2",
+        "author": "2",
+        "series": "2",
+        "seriesNumber": "2"
+    },
+    {
+        "title": "3",
+        "publisher": "3",
+        "yearOfPublication": "3",
+        "lengthInPages": "3",
+        "digitIsbn": "3",
+        "review": "3",
+        "author": "3",
+        "series": "3",
+        "seriesNumber": "3"
+    },
+    {
+        "title": "4",
+        "publisher": "4",
+        "yearOfPublication": "4",
+        "lengthInPages": "4",
+        "digitIsbn": "4",
+        "review": "4",
+        "author": "4",
+        "series": "4",
+        "seriesNumber": "4"
+    }
+]
